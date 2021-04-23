@@ -1,0 +1,32 @@
+<svg width="308" height="268" viewBox="0 0 308 268" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Bubbles</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-423 -331)">
+<g id="Bubbles">
+<g id="Fill 1">
+<use xlink:href="#path0_fill" transform="translate(542.128 567.678)" fill="#EF2020"/>
+</g>
+<g id="Blue #36ADF8" opacity="0.715636">
+<g id="Blue #36ADF8">
+<g id="Fill 1">
+<use xlink:href="#path1_fill" transform="translate(545.458 470.729)" fill="#36ADF8"/>
+</g>
+<mask id="mask0_outline" mask-type="alpha">
+<g id="Clip 4">
+<use xlink:href="#path2_fill" transform="translate(423.632 331.652)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Fill 3" mask="url(#mask0_outline)">
+<use xlink:href="#path3_fill" transform="translate(423.632 331.652)" fill="#36ADF8"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 23.5798 0.132853C 18.4685 0.770628 17.1175 3.94306 17.1175 3.94306C 17.1175 3.94306 15.0013 1.62859 12.9331 0.979846C 6.47004 -1.04737 0.861202 3.36644 0.122586 8.74451C -1.75645 22.4276 18.588 31.1004 18.588 31.1004C 18.799 31.1004 28.32 24.7374 31.672 18.7098C 34.128 14.2938 35.0367 11.7149 34.9958 8.05907C 34.9578 4.64917 31.4006 1.67541 30.3003 1.12579C 28.3132 0.133274 26.3962 -0.218937 23.5798 0.132853Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 128.813 13.2841L 66.3993 47.4632L 0 66.9978C 4.88027 66.8513 60.7103 60.7989 62.7461 73.4052C 66.0338 93.7611 38.5708 105.988 38.5708 105.988C 38.5708 105.988 80.0937 101.551 99.5247 82.8273C 114.953 67.9568 117.372 58.9039 123.379 46.7603C 162.753 -32.8231 128.813 13.2841 128.813 13.2841"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 216.132L 0 0L 306.546 0L 306.546 216.132L 0 216.132Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 306.546 134.207C 306.546 193.89 237.924 216.132 153.273 216.132C 68.6222 216.132 0 193.89 0 134.207C 0 74.5236 68.6222 0 153.273 0C 237.924 0 306.546 74.5236 306.546 134.207"/>
+</defs>
+</svg>
